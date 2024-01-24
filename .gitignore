@@ -2,5 +2,5 @@ Downloads/*
 _docker-compose.yml
 bd/*
 !bd/.gitkeep
-!web/input/*
+!web/input
 !.gitignore
