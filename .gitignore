@@ -1,0 +1,4 @@
+Downloads/*
+_docker-compose.yml
+bd/*
+!.gitignore
