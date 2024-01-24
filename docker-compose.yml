@@ -1,0 +1,46 @@
+version: "3"
+services:
+  httpd_pv:
+    privileged: true
+    build: "."
+    image: inteliagencia_img
+    container_name: inteliagencia_web
+    ports:
+      - "8088:80"
+    tty: true
+    volumes:
+      - ./web:/var/www/inteliagencia
+    links:
+      - mysql_pv
+  mysql_pv:
+    image: mariadb
+    container_name: inteliagencia_db
+    tty: true
+    ports:
+      - "33066:3306"
+    environment:
+      - MYSQL_USER=inteliagencia
+      - MYSQL_PASSWORD=inteliagencia
+      - MYSQL_ROOT_PASSWORD=inteliagencia
+      - MYSQL_DATABASE=default_schem
+    volumes:
+      - ./bd:/var/lib/mysql
+  phpmyadmin_pv:
+    image: phpmyadmin
+    container_name: inteliagencia_pma
+    links:
+      - mysql_pv
+    environment:
+      PMA_HOST: inteliagencia_db
+      PMA_PORT: 3306
+      MYSQL_ROOT_PASSWORD: inteliagencia
+      PMA_ARBITRARY: 1
+    depends_on:
+      - mysql_pv
+    ports:
+      - 8188:80
+networks:
+  default:
+    name: inteliagencia
+    external: true
+

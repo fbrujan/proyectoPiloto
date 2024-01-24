@@ -1,0 +1,292 @@
+<Francisco Brujan Arias>
+    fbrujan@gmail.com A3vt@0bdc3r / 2fa: 6D45NM74UJ4P3XSQ
+    Billetera / Wallets Bitcoins    Coinbase:       3QXsZstzrTMUTeoE3XEpqbk5d7zX8sRJza
+    Billetera / Wallets LTC         Coinbase:       MCyumT7fwve9vhXmmLwHQwrbjLqHNmc5iz
+    Billetera / Wallets Bitcoins    GoArbit:        #####3BgStzmTP3j4uS97vFespVmqCftXcr6wEf
+    Billetera / Wallets Bitcoins    GoArbit:        31pYuzLnWAQRXT3cjRdtzX2cm4k4M61C3P
+    Billetera / Wallets Bitcoins    CEX.io:         38x9C9fcwwyztLrZ1Ex96tst3cJCKUn916
+    Billetera / Wallets Bitcoins    localbitcoins:  bc1qhwnfhaja6udvddzd8fdwx2fx4llj6sux5pwdxa
+    Billetera / Wallets Bitcoins    Binance:        1Jfwti6DsofL5MrsntYA7QJuYYbeYeGeRr
+    Billetera / Wallets LTC         Binance:        LMdu2PDQ9GogxPh5rj72xoe5kjrsonwBKq
+    Billetera / Wallets BNB20       Safepal:        0xDc1A288bB10eCC85739af0BB2109235C204447dc
+    Billetera / Wallets Bitcoins    Safepal:        1132RitJWHBwYDmqXJfTVoFMwfYT2CMyY4
+    Billetera / Wallets Bitcoins    Trust Wallet:   bc1q0z6rqauj5dw29jadz4xgnh34dznt7yt8eknk5x
+</Francisco Brujan Arias>
+
+
+<Isis Jafreizi Brujan Batel>
+    isis.jafreizi@gmail.com T0d0p0d3r0$0
+    Billetera / Wallets Bitcoins    GoArbit         ###32Ybk3esr9Cfhh2eV1WKJwBjRkrm51hq6G
+    Billetera / Wallets Bitcoins    GoArbit         37jNJw9Rjz2Gr5rTbrVCfxGAtWjf9LgvSm
+                                                    33fAYMrFAhG3sdhSphJ5GbnDe9qMdBRL2B
+    8094232642
+</Isis Jafreizi Brujan Batel>
+
+<Fraider Joelfri Brujan Batel>
+    fraider.joelfri@gmail.com T0d0p0d3r0$0
+    Billetera / Wallets Bitcoins    GoArbit         ###395okDDDhHT5tL1ccJ5Bof7r9PWguMb4N1
+    Billetera / Wallets Bitcoins    GoArbit         38wTwoUZx4CT6TNYP4YEkxJA1mNYaaYsPt
+    8094232642
+</Fraider Joelfri Brujan Batel>
+
+<BBSYstemas Brujan Batel>
+    2FA (6NKPUVZ3PXEO6UZN)
+    bbsystemas@gmail.com  A3vt@0bdc3r 
+    Billetera / Wallets Bitcoins    GoArbit         3QUC8nbL5rhUkzEdutSm63yFBUdi4BE2UL    
+</BBSYstemas Brujan Batel>
+
+<MEBathel Brujan Batel>
+    2FA (GOJV5LPXPH675UQE)
+    mebathel@gmail.com  A3vt@0bdc3r 
+    Billetera / Wallets Bitcoins    GoArbit         32Lz9rq4u3yPec5ffR71Bjgzdde7G3jXBw    
+</MEBathel Brujan Batel>
+
+<Jilfrandy Francisco Brujan Batel>
+    jilfrandy.francisco@gmail.com Ilcjfjnj2m
+    Billetera / Wallets Bitcoins    GoArbit         3Fbfh3U6PQFu2Rn9Hwmyv65U371uHVavR4
+    A Jilfrandy le pase:  212 Dolares
+</Jilfrandy Francisco Brujan Batel>
+
+<Franyelis Yeliza Brujan Batel>
+    franyelis.yeliza@gmail.com 
+    Billetera / Wallets Bitcoins    GoArbit         3FGTANc7bgFWVsZUVWQtTGwVou3wKqeBNN
+    A Franyelis le pase: 203.68 Dolares
+</Jilfrandy Francisco Brujan Batel>
+
+
+
+
+<Erick Markiel>
+    Billetera / Wallets Bitcoins GoArbit            37osd5TfEkoYFTz2C67JESVJHZwdmHXi36
+</Erick Markiel>
+
+<Amigo de Erick Markiel>
+    Billetera / Wallets Bitcoins GoArbit            3DBVcxzuktVQv4VZohJKSj8xGmRjAHNb46
+    me pasaron 27734 pesos
+
+</Amigo de Erick Markiel>
+
+<gitLabViva Google Authenticator>
+    740bd9b9184ff2d1
+    a9915402a9de9b1e
+    773a110528dacfe0
+    ac10c5a741709895
+    306ad9e835d6de01
+    31ca294f1f8cf2d7
+    24c982786c65b7e0
+    dcf8687de1b66782
+    b51009ff2f193a70
+    8ba3bdcff972293b
+
+    ba3d0d047125f182
+    dc0ab95510198671
+    d0e6d48ebc4b4f02
+    dcd77892d686b863
+    e9bc4a21573c6aac
+    e2fdef4177618c39
+    1749adbf7859d47e
+    3da1cbd65ad82b62
+    353d22781054acf3
+    0acb337647730647
+</gitLabViva>
+
+<trust wallet>
+    <secret phrase>
+        1. subway
+        2. material
+        3. camera
+        4. fall
+        5. stamp
+        6. peanut
+        7. code
+        8. east
+        9. stool
+        10. depart
+        11. season
+        12. hover
+    </secret phrase>
+</trust wallet>
+
+<Safepal>
+    <FraseNmonica>
+        1. rally
+        2. trade
+        3. health
+        4. metal
+        5. truth
+        6. sword
+        7. tip
+        8. deal 
+        9. tragic
+        10. sustain
+        11. thank
+        12. rebuild
+
+    </FraseNmonica>
+</Safepal>
+
+<metamask>
+    <secret>
+        1. letter
+        2. traffic
+        3. salon
+        4. dragon
+        5. sound
+        6. cotton
+        7. sound
+        8. expose
+        9. voice
+        10. glance
+        11. half
+        12. fetch
+    </secret>
+
+    <agregarRed>
+        Menu->Setting->Network->Add Network
+        OPT3: 0xCf630283E8Ff2e30C29093bC8aa58CADD8613039
+        USDT: 0xc2132D05D31c914a87C6611C10748AEb04B58e8F
+    </agregarRed>
+
+    <wallet>
+        0x08Bb69c3e43e57492e6E34b73c8141623E646077
+    </wallet>
+</metamask>
+                                
+
+
+<GoArbit>
+    <tokens>
+        https://www.youtube.com/watch?v=Efn_1lEHq2o&ab_channel=EmprendeMoney
+        https://www.youtube.com/watch?v=nzQov6prtjw&ab_channel=EmprendeMoney
+        https://www.youtube.com/watch?v=2cdZc8L_b8Q&ab_channel=SantiagoMarin (usando safepal red BNB20)
+
+        1. Crear billetera en Metamask
+        2. Agregar la red Binance Smart Chain (es mas economica)
+        3. Convertir USDT a BNB en Binance... para que cobre menos por las transferencias
+        4. Enviar los BNB de Binance a billetera de MetaMask
+        5. Ir al PancakeSwap (ver tutorial pendiente), Linkear la cuenta de MetaMask en la opcion Connect to Wallet
+        6. Convertir los BNB a Squart Token
+            a. Ir a la pagina del Squart Token y copiarse el Squart Token Smart Contract (otra direccion)
+            b. Colocar el Squart Token Smart Contract en PancakeSwap
+            c. irse a importar token para poder ver los tokens en metamask
+            0.15% impuesto 150
+
+    </tokens>
+
+    <SquareToken>
+        Lo que hice fue:
+            1. Me transferi el dinero de BHD a Binance. (BTC)
+            2. Converti los BTC a BNB en Binance
+            3. Me Envie los BNB por la red BNB20 de Binance a SafePal.
+            4. En SafePal, usando PancakeSwap hice la conversion de BNB a SquareToken
+            5. Conecte el SquareToken en GoArbit con SafePal
+            6. Hice la transferencia a GoArbit
+            7. Hice el pago de el rango Gold (Ahorrando un 20%)
+    </SquareToken>
+</GoArbit>
+
+<optimus3>
+    <caracteristicas>
+        1. Sin Plataformas
+        2. Sin Referidos
+        3. Sin Bloqueos
+        4. Entras y sales cuando quieres
+        5. Solo tener USDT en tu billetera de Metamask
+        6. Interes compuesto automatico y simple
+    </caracteristicas>
+    <quehacer>
+        1. Tener USDT en Binance o cualquier Wallet
+        2. Tener una billetera metamask o Trush Wallet que corra en la red de Polygon Matic
+        3. Tener la red de Polygon Matic 
+        4. Agregar el Token Optimus3 a la billetera
+    </quehacer>
+</optimus3>
+
+Pasar a samuel cual es la fecha de finalmente transferir el coit a roosvelt
+para el proximo lunes 
+
+Hacer un analisis un detallado de los tickets repetitivos
+    que se puede implementar para evitar el error de los diferentes temas
+
+    
+<!-- 
+        Mas interacion con los temas de it.
+        mayor involucramento
+        mayor empoderamiento 
+        tomar decisiones a nivel
+        Siempre debe fluir la comunicacion en ambas vias.
+        mayor participacion.
+
+        buscar esos espacios de interacion con el personal
+
+        en CISJAR preguntar por tecnico de la laptop Edgar
+-->
+
+
+12.265,79 en coinbase enviados a localbitcoins 11 de Agosto 2022
+
+
+<edesur>
+    Reporte Edesur  
+    Asistido por Moises Reyes. 
+    Telefono 8096839393 
+    NIC 6473980
+    ticket no. 158123
+</edesur>
+
+
+Siete caracteristicas o cualidades de un hombre de valor (Yesenia Tem 2020)
+    Valor no es poseciones de cosas materiales
+    EL dinero no te da valor
+    La posicion o cargo no te valor
+
+    1. Debe ser un protector. 
+        La esposa y los hijos se sienten protegidos por ese hombre. Se sacrifica por su esposa e hijos
+        Se interesa por saber quienes son sus hijos y quienes son los amigos de sus hijos
+        Se interesa por saber donde estan sus hijos (Donde estas, comiste, como te fue hoy en el trabajo, como te fue hoy en la escuela)
+        Se preocupa por como esta vestida su esposa y sus hijos
+        No expone a su esposa e hijos (los trapos sucios se lavan en casa)
+
+    2. Debe ser un proveedor (Si no provee para su casa es peor que un impio)
+        Independientemente de que su mujer trabaje, debe preocuparse por proveer suplir las necesidades de su hogar
+        Debe proveer sabiduria a sus hijos y su mujer.. Enseñalos a ahorrar. Enseñalos a Diezmar... Enseñalos a buscar a Dios
+
+
+    3. Debe ser promotor
+        Promover valores buenos de su hogar... No solo castigue lo malo ... Promueve lo bueno... Ese es tu hijo... esa es mi esposa
+        Mi esposa hace unos guisos... mis hijos son lo mejor
+        No quiere decir que no castigues lo incorrecto.
+        Hay muchas personas que quieren tener hijos como los tuyos... quieren tener una esposa como la tuya... y tu vive mencionando lo malo de ellos... Muestra lo bueno
+
+    4. Debe ser sacerdote de su casa
+        No delegues la responsabilidad sacerdotal que tienes sobre tus hijos
+
+    5. Debe ser un profeta
+        Profetice lo bueno sobre sus hijos... Se un hombre de bien... 
+
+    6. Reconoce cuando se equivoca
+        Si ofendiste a tu hijo, si te equivocaste, pidele perdon a tu hijo.... 
+
+    7. Hace siempre lo posible por reparar lo que se dañó
+        hay que volver a ganarse la confianza
+
+
+    Observar el ejemplo de jacob en Genesis:
+        cuando Raquel le puso por nombre Benoni a su hijo(Hijo de mi dolor, hijo de mi angustia, hijo de mi tristeza), 
+        Jacob procedio a cambiar el nombre por Benjamin (hijo de mi mano derecha)
+        Una palabra tuya puede marcar para siempre a tu hijo o a tu hija. Si alguien a proferido una palabra dañina sobre tu esposa o sobre tu hijo, levante y di, no ... no... 
+
+Que es un hombre de valor:
+    EL valor verdadero de uno es aquel que tiene en funcion de una capacidad de hacerse mas humano delante de los hombres y delante de DIos.
+    Reconoce sus limitaciones y flaquezas
+    Es uno que reconoce que necesita a Dios
+    Es uno que entrega su vida a Dios
+    Esta dispuesto a perdonar y pedir perdon
+    se esfuerza por mejorar cada dia.
+
+    Veamos al jose de egipto: pudo superar todos los retos que se le presentaron en la vida.
+    Cambio maldiciones en bendiciones
+
+    Cinco Caracteristicas que pueden hacer 
+        1. Capacidad de identificar nuestras herencias espirituales
+        

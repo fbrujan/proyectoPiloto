@@ -1,0 +1,6 @@
+# Revisando si hay archivos nuevos para ser cargados
+00 * * * * /bin/bash /var/www/inteliagencia/api/exe/cargar_celdas_viva.sh 2>&1>>/var/www/inteliagencia/api/log/cron.log
+10 * * * * /bin/bash /var/www/inteliagencia/api/exe/cargar_padron.sh 2>&1>>/var/www/inteliagencia/api/log/cron.log
+20 * * * * /bin/bash /var/www/inteliagencia/api/exe/cargar_suscriptores_viva.sh 2>&1>>/var/www/inteliagencia/api/log/cron.log
+30 * * * * /bin/bash /var/www/inteliagencia/api/exe/cargar_trafico_viva.sh 2>&1>>/var/www/inteliagencia/api/log/cron.log
+
