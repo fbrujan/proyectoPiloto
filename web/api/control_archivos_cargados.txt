@@ -1,0 +1,6 @@
+trafico.csv ......Cargado  20240125043238
+trafico1.csv ......Cargado  20240125050033
+trafico1.csv ......Cargado  20240125050826
+trafico1.csv ......Cargado  20240125051617
+trafico.csv ......Cargado  20240125053209
+trafico_celdas.txt ......Cargado  20240125053926
