@@ -1,0 +1,22 @@
+plantilla de los tickets en casos de ciertas incidencias.
+ver casos para cada incidencia. modificar ost reglas. ENriquecer junto con el equipo.
+
+ver los casos de errores de la vpg con cuello y brito.
+
+para el proximo sprint que se contemple lo de los tickets OST:
+	Ver que se creen tareas en los tickets con los pasos que hay que hacer. (portabilidad)
+	Crear las plantillas correspondientes
+	Definir con Los pablos que informacion ellos requieren en los tickets que el representante deba colocar
+	
+	
+Caso de trafico con Claro
+
+30 enero 2024
+Tema de la noche Honra
+Caballeros presentes:  11
+Caballeros ausentes: 
+Mensaje Gruyar: Tema el tabernaculo Salmos 15.
+
+
+
+
