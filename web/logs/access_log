@@ -2034,3 +2034,13 @@
 172.21.0.1 - - [04/Jan/2024:17:39:39 +0000] "GET /trafico/listar/809777?_=1704389966250 HTTP/1.1" 200 1194968
 172.21.0.1 - - [04/Jan/2024:17:40:02 +0000] "GET /trafico/listar/50940055472?_=1704389966251 HTTP/1.1" 200 565
 172.21.0.1 - - [04/Jan/2024:17:40:17 +0000] "GET /trafico/listar/509400554?_=1704389966252 HTTP/1.1" 200 565
+172.21.0.1 - - [06/Feb/2024:18:29:54 +0000] "GET / HTTP/1.1" 200 3949
+172.21.0.1 - - [06/Feb/2024:18:29:57 +0000] "POST /usuarios/validar HTTP/1.1" 200 5
+172.21.0.1 - - [06/Feb/2024:18:29:57 +0000] "GET /usuarios HTTP/1.1" 200 9488
+172.21.0.1 - - [06/Feb/2024:18:29:57 +0000] "GET /Assets/js/jquery.dataTables.min.js HTTP/1.1" 200 84321
+172.21.0.1 - - [06/Feb/2024:18:29:57 +0000] "GET /Assets/js/dataTables.bootstrap4.min.js HTTP/1.1" 200 3159
+172.21.0.1 - - [06/Feb/2024:18:29:57 +0000] "GET /Assets/demo/datatables-demo.js HTTP/1.1" 200 103
+172.21.0.1 - - [06/Feb/2024:18:29:57 +0000] "GET /Assets/js/sweetalert2.all.min.js HTTP/1.1" 200 68809
+172.21.0.1 - - [06/Feb/2024:18:29:57 +0000] "GET /Assets/js/funciones.js HTTP/1.1" 200 9517
+172.21.0.1 - - [06/Feb/2024:18:29:57 +0000] "GET /Assets/css/dataTables.bootstrap4.min.css HTTP/1.1" 200 5222
+172.21.0.1 - - [06/Feb/2024:18:29:57 +0000] "GET /usuarios/listar?_=1707244197421 HTTP/1.1" 200 1060
