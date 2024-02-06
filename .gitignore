@@ -2,6 +2,8 @@ Downloads/*
 _docker-compose.yml
 bd/*
 !bd/*.sql
+!bd/sqlFiles
+!bd/sqlFiles/*
 web/api/backup/*
 !bd/.gitkeep
 !.gitignore
