@@ -1,7 +1,7 @@
 Downloads/*
 _docker-compose.yml
 bd/*
-!bd/inteliagencia_db.sql
+!bd/inteliagencia_db.sql.gz
 web/api/backup/*
 !bd/.gitkeep
 !.gitignore
