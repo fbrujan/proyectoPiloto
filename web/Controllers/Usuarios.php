@@ -17,7 +17,7 @@ class Usuarios  extends Controller
         }
         
        //print "<h2>Metodo Index del Controlador Home funcionando </h2>";
-       $this->views->getView($this, "index", $data);
+       $this->views->getView($this, "index");
        // print_r($this->model->getUsuario());
 
     }
