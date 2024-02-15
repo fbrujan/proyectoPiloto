@@ -17,14 +17,8 @@ class Suscriptores extends Controller
         }
         
        //print "<h2>Metodo Index del Controlador Home funcionando </h2>";
-<<<<<<< HEAD
-       $this->views->getView($this, "index");
-=======
-       //print "<h2>Metodo Index del Controlador Home funcionando </h2>";
-       //print "<h2>Metodo Index del Controlador Home funcionando </h2>";
-
-       $this->views->getView($this, "index", $data);
->>>>>>> 07ec6f6ae0fb5f2a076774b47efff0c5c7f65672
+       $this->views->getView($this, "index");  
+   
        // print_r($this->model->getUsuario());
 
     }
