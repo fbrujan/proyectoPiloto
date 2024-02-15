@@ -18,7 +18,10 @@ Caballeros ausentes:
 Mensaje Gruyar: Tema el tabernaculo Salmos 15.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 07ec6f6ae0fb5f2a076774b47efff0c5c7f65672
 el problema no es tener miedo... es lo que hacemos cuano tenemos miedo
 
 
@@ -78,6 +81,9 @@ resaltar que la tendencia en la venta de recargas y paquetes se ha estado increm
 
 
 
+<<<<<<< HEAD
+>>>>>>> 07ec6f6ae0fb5f2a076774b47efff0c5c7f65672
+=======
 >>>>>>> 07ec6f6ae0fb5f2a076774b47efff0c5c7f65672
 
 

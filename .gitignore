@@ -2,8 +2,11 @@ Downloads/*
 _docker-compose.yml
 bd/*
 <<<<<<< HEAD
+<<<<<<< HEAD
 !bd/*.sql
 =======
+=======
+>>>>>>> 07ec6f6ae0fb5f2a076774b47efff0c5c7f65672
 web/logs/*
 !bd/*.sql
 !bd/sqlFiles
