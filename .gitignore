@@ -1,8 +1,16 @@
 Downloads/*
 _docker-compose.yml
 bd/*
+<<<<<<< HEAD
 !bd/*.sql
+=======
+web/logs/*
+!bd/*.sql
+!bd/sqlFiles
+!bd/sqlFiles/*
+>>>>>>> 07ec6f6ae0fb5f2a076774b47efff0c5c7f65672
 web/api/backup/*
 !bd/.gitkeep
 !.gitignore
 !web/api/backup/.gitkeep
+!web/logs/.gitkeep
