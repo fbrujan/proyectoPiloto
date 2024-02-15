@@ -245,3 +245,6 @@
 [Thu Jan 04 17:37:54 2024] [error] [client 172.21.0.1] PHP Notice:  Undefined variable: data in /var/www/inteliagencia/Controllers/Suscriptores.php on line 20, referer: http://localhost:8088/usuarios
 [Thu Jan 04 17:39:26 2024] [error] [client 172.21.0.1] PHP Notice:  Undefined variable: data in /var/www/inteliagencia/Controllers/Trafico.php on line 20, referer: http://localhost:8088/suscriptores
 [Tue Feb 06 18:29:57 2024] [error] [client 172.21.0.1] PHP Notice:  Undefined variable: data in /var/www/inteliagencia/Controllers/Usuarios.php on line 20, referer: http://localhost:8088/
+[Thu Feb 15 03:48:18 2024] [error] [client 172.21.0.1] PHP Notice:  Undefined variable: data in /var/www/inteliagencia/Controllers/Trafico.php on line 20
+[Thu Feb 15 13:58:37 2024] [error] [client 172.21.0.1] PHP Notice:  Undefined index: nombre in /var/www/inteliagencia/Views/Templates/header.php on line 82
+[Thu Feb 15 14:28:04 2024] [error] [client 172.21.0.1] PHP Notice:  Undefined variable: data in /var/www/inteliagencia/Controllers/Suscriptores.php on line 23, referer: http://localhost:8088/trafico

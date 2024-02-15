@@ -1,4 +1,4 @@
-let tblUsuarios, tblSuscriptores;
+let tblUsuarios, tblSuscriptores, tblTrafico;
 
 document.addEventListener("DOMContentLoaded",function(){
     tblUsuarios =  $('#tblUsuarios').DataTable( {
