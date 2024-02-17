@@ -49,7 +49,7 @@ function btnBuscarSuscriptor(e) {
                 ,{'data' : 'operadora'}
                 ,{'data' : 'tipo_documento' } 
                 ,{'data' : 'nro_documento' }
-                ,{'data' : 'nombre' }
+                ,{'data' : 'fullName' }
                 ,{'data' : 'acciones' } 
             
             ]

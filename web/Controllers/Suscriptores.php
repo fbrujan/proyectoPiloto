@@ -32,6 +32,7 @@ class Suscriptores extends Controller
             $data[$i]['acciones'] = '<div>
             <button class="btn btn-primary" type="button" onclick="btnEditSusc('.$data[$i]['nro_telefonico'] .')"><i class="fas fa-list-ol"></i></button>
             </div>';
+            $data[$i]['fullName'] = $data[$i]['nombre']. " " . $data[$i]['apellidos'];
         }
         echo json_encode($data, JSON_UNESCAPED_UNICODE);
         die();
