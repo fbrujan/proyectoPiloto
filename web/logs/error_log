@@ -253,3 +253,7 @@
 >>>>>>> 07ec6f6ae0fb5f2a076774b47efff0c5c7f65672
 [Sat Feb 17 15:58:41 2024] [error] [client 172.21.0.1] PHP Notice:  Undefined index: nombre in /var/www/inteliagencia/Views/Templates/header.php on line 82
 [Sat Feb 17 16:03:57 2024] [error] [client 172.21.0.1] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting variable (T_VARIABLE) or '{' or '$' in /var/www/inteliagencia/Controllers/Suscriptores.php on line 35, referer: http://localhost:8088/suscriptores
+[Wed Feb 28 18:31:34 2024] [error] [client 172.21.0.1] PHP Warning:  require_once(Views/Padron/index.php): failed to open stream: No such file or directory in /var/www/inteliagencia/Config/App/Views.php on line 13, referer: http://localhost:8088/suscriptores
+[Wed Feb 28 18:31:34 2024] [error] [client 172.21.0.1] PHP Fatal error:  require_once(): Failed opening required 'Views/Padron/index.php' (include_path='.:/usr/share/pear:/usr/share/php') in /var/www/inteliagencia/Config/App/Views.php on line 13, referer: http://localhost:8088/suscriptores
+[Wed Feb 28 18:31:49 2024] [error] [client 172.21.0.1] PHP Warning:  require_once(Views/Padron/index.php): failed to open stream: No such file or directory in /var/www/inteliagencia/Config/App/Views.php on line 13, referer: http://localhost:8088/usuarios
+[Wed Feb 28 18:31:49 2024] [error] [client 172.21.0.1] PHP Fatal error:  require_once(): Failed opening required 'Views/Padron/index.php' (include_path='.:/usr/share/pear:/usr/share/php') in /var/www/inteliagencia/Config/App/Views.php on line 13, referer: http://localhost:8088/usuarios

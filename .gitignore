@@ -2,7 +2,7 @@ Downloads/*
 _docker-compose.yml
 bd/*
 !bd/*.sql
-web/logs/*
+web/logs/
 !bd/*.sql
 !bd/sqlFiles
 !bd/sqlFiles/*
